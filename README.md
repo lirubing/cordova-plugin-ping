@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <<<<<<< 8115e732c26a16a42a212cf9e43179a7a513b557
 # cordova-plugin-ping-
 cordova-plugin-ping++
@@ -138,3 +139,7 @@ cordova-plugin-ping++
 #####更多插件请点击：[fami2u](https://github.com/fami2u)
 #####关于我们：[FAMI](http://fami2u.com)
 >>>>>>> first commit
+=======
+# cordova-plugin-ping-
+cordova-plugin-ping++
+>>>>>>> 8115e732c26a16a42a212cf9e43179a7a513b557
